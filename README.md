@@ -4,7 +4,7 @@ It can help you to study how to build a simple HTML.
 
 ## Build elements
 
-In [Muke](https://app.mockplus.cn/) build a HTML project.
+In [Mock](https://app.mockplus.cn/) build a HTML project.
 
 ## Push project
 
